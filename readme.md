@@ -1,4 +1,4 @@
-dump - object/library/image dump application exe
+rc - Windows resource compiler library
 ================================================
 
 
